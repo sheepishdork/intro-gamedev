@@ -30,12 +30,6 @@ public class Menus : MonoBehaviour {
 		GameisPaused = true;
 	}
 
-	public void LoadSchedule() {
-	}
-
-	public void LoadFriends() {
-	}
-
 	public void QuitGame() {
 		Application.Quit();
 	}
