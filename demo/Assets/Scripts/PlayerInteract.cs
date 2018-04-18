@@ -6,7 +6,6 @@ public class PlayerInteract : MonoBehaviour {
 
 	public GameObject currentInterObj = null;
 	public InteractionObject currentInterObjScript = null;
-	public Inventory inventory;
 
 	void Update() {
 		if (Input.GetButtonDown ("Interact") && currentInterObj) {
@@ -16,9 +15,8 @@ public class PlayerInteract : MonoBehaviour {
 			if (currentInterObjScript.interactable) {
 				currentInterObj.SendMessage ("GoToClass");
 			}
-			if (currentInterObjScript.inventory) {
-				inventory.AddItem (currentInterObj);
-				currentInterObj.SendMessage ("PickUp");
+			if (currentInterObjScript.item) {
+				currentInterObj.SendMessage ("TriggerClue");
 			}
 		}
 		if (Input.GetButtonDown ("Continue") && currentInterObj) {

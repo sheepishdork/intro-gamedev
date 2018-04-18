@@ -18,11 +18,8 @@ public class InteractionObject : MonoBehaviour {
 	public int sceneIndex;
 	public bool npc;
 	public bool interactable;
-	public bool inventory;
+	public bool item;
 
-	public void PickUp() {
-		Destroy(gameObject);
-	}
 
 	IEnumerator GoToClass() {
 
