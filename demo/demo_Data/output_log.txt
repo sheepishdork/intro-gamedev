@@ -6,107 +6,69 @@ Direct3D:
     Vendor:   Intel
     VRAM:     809 MB
     Driver:   9.17.10.2843
-Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 11.0 [level 10.1]
-    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
-    Vendor:   Intel
-    VRAM:     809 MB
-    Driver:   9.17.10.2843
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Begin MonoManager ReloadAssembly
-- Completed reload, in  0.082 seconds
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.dll (this message is harmless)
-desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
-desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
-<RI> Initializing input.
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 4.131110 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Quitting game!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1de8 -> priority: 1 
-  Thread -> id: 24f8 -> priority: 1 
-Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 11.0 [level 10.1]
-    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
-    Vendor:   Intel
-    VRAM:     809 MB
-    Driver:   9.17.10.2843
-Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.061 seconds
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dez\Documents\gitboi\intro-gamedev\demo\demo_Data\Managed\System.dll (this message is harmless)
 desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.726368 ms
+UnloadTime: 1.524728 ms
+The referenced script on this Behaviour (Game Object 'player') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.443372 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.298966 ms (FindLiveObjects: 0.033912 ms CreateObjectMapping: 0.024542 ms MarkObjects: 0.215969 ms  DeleteObjects: 0.022757 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564020 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1385.
+Total: 0.626044 ms (FindLiveObjects: 0.106646 ms CreateObjectMapping: 0.037036 ms MarkObjects: 0.379732 ms  DeleteObjects: 0.098168 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
 NullReferenceException: Object reference not set to an instance of an object
   at InteractionObject.Start () [0x00000] in <filename unknown>:0 
  
@@ -137,134 +99,104 @@ NullReferenceException: Object reference not set to an instance of an object
  
 (Filename:  Line: -1)
 
-Quitting game!
+NullReferenceException: Object reference not set to an instance of an object
+  at NPC.TriggerDialogue () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String)
+PlayerInteract:Update()
  
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NPC.TriggerDialogue () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String)
+PlayerInteract:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NPC.TriggerDialogue () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String)
+PlayerInteract:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NPC.TriggerDialogue () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String)
+PlayerInteract:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.525573 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1391.
+Total: 1.537223 ms (FindLiveObjects: 0.193658 ms CreateObjectMapping: 0.109769 ms MarkObjects: 1.161060 ms  DeleteObjects: 0.066932 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 28d8 -> priority: 1 
-  Thread -> id: 2f5c -> priority: 1 
-Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 11.0 [level 10.1]
-    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
-    Vendor:   Intel
-    VRAM:     809 MB
-    Driver:   9.17.10.2843
-Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.062 seconds
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.dll (this message is harmless)
-desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 4.406874 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Quitting game!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1060 -> priority: 1 
-  Thread -> id: 2dc8 -> priority: 1 
-Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 11.0 [level 10.1]
-    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
-    Vendor:   Intel
-    VRAM:     809 MB
-    Driver:   9.17.10.2843
-Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.065 seconds
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Dez\Downloads\demo-20180217T183954Z-001\demo\demo_Data\Managed\System.dll (this message is harmless)
-desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 4.283717 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at InteractionObject.Start () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Quitting game!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1cf0 -> priority: 1 
-  Thread -> id: 3244 -> priority: 1 
+  Thread -> id: 13ec -> priority: 1 
+  Thread -> id: 1274 -> priority: 1 
